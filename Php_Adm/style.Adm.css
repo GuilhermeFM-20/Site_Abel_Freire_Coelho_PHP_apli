@@ -1,0 +1,153 @@
+
+body{
+    font-family: "Montserrat", sans-serif;
+    font-size: 14px;
+    margin: none;
+}
+.admin{
+    background: #1b2cc5;
+}
+.box-ico{
+    margin: 60px 400px ;
+    width: 600px;
+    height: 100px;
+    border-radius: 30px;
+    background: #07225c;
+}
+.img-ico{
+    width: 550px;
+    height: 90px;
+    margin: 2px 20px;
+ 
+}
+.login-adm{
+    width: 400px;
+    height: 300px;
+    background: white;
+    border-radius: 30px;
+    margin-left: 490px;
+}
+#login-adm{
+    width: 400px;
+    height: 400px;
+    background: white;
+    border-radius: 30px;
+    margin-left: 490px;
+}
+.h1-adm{
+    padding: 5px 155px;
+    color: #1a3bf1;
+    font-size: 36px;
+}
+#h1-adm{
+    padding: 10px 100px;
+    color: #1a3bf1;
+    font-size: 36px;
+}
+.h2-adm{
+    color: #1a3bf1;
+    font-size: 17px;
+    text-align: center;
+}
+.h3-adm{
+    padding-top: 20px;
+    color: #1a3bf1;
+    font-size: 27px;
+    text-align: center;
+}
+.text-adm{
+    border-radius: 20px;
+    width: 200px;
+    height: 30px;
+    margin: 5px;
+    border-color: #1b2cc1;
+}
+.box-form{
+    margin-left: 70px;
+    margin-top: 20px;
+}
+#btn-adm{
+    margin-top: 10px;
+    margin-left: 55px;
+    width: 150px;
+    height: 40px;
+    background: #1b2cc1;
+    color: white;
+    border: none;
+}
+.avis{
+    color:rgb(221, 64, 64);
+    margin-left: 103px;
+}
+/* menu */
+.menu-adm{
+    width: 500px;
+    height: 450px;
+    background: white;
+    border-radius: 30px;
+    margin-left: 470px;
+   
+}
+.add-prof{
+    width: 500px;
+    height: 60px;
+    margin-left: 50px;
+    margin-top: 30px;
+    display: block;
+    justify-content: center;
+
+}
+.img-prof{
+    width: 60px;
+    height: 60px;
+    color: blue;
+    display: inline;
+    
+    
+}
+.img-prof:hover{
+    color: brown;
+    width: 70px;
+    height: 70px;
+}
+.p{
+    display: inline;
+    color: rgb(62, 62, 230);
+    font-size: 20px;
+}
+.lab{
+    font-size: 20px;
+    color: darkblue;
+    display: inline;
+}
+.form{
+    margin-left: 120px;
+}
+#chek{
+   visibility:hidden
+}
+.menu-adm2{
+    width: 250px;
+    height: 400px;
+    background: white;
+    border-radius: 30px;
+    margin-top: 30px;
+}
+.cent{
+    padding-left: 20px;
+}
+.prof.profw{
+    
+    height:500px;
+    width: 400px;
+    display: table; 
+    background:white;
+    border-color: rgb(172, 164, 164);
+    border-style: solid;
+    border-width: 1px;
+}
+.imgprof{
+    width: 400px;
+    height: 410px;
+
+}
